@@ -2345,7 +2345,7 @@
 			}
 
 		.icon.style1 {
-			color: #efa8b0;
+			color: #8ccc93;
 		}
 
 		.icon.style2 {
@@ -2353,15 +2353,15 @@
 		}
 
 		.icon.style3 {
-			color: #a89cc8;
+			color: #8cc9f0;
 		}
 
 		.icon.style4 {
-			color: #9bb2e1;
+			color: #8ccc93;
 		}
 
 		.icon.style5 {
-			color: #8cc9f0;
+			color: #8ccc93;
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -2913,19 +2913,19 @@
 		}
 
 			.statistics li.style1 {
-				background-color: #efa8b0;
+				background-color: #8ccc93;
 			}
 
 			.statistics li.style2 {
-				background-color: #c79cc8;
+				background-color: #8eceb8;
 			}
 
 			.statistics li.style3 {
-				background-color: #a89cc8;
+				background-color: #89c6c3;
 			}
 
 			.statistics li.style4 {
-				background-color: #9bb2e1;
+				background-color: #91c9e0;
 			}
 
 			.statistics li.style5 {
